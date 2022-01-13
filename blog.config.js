@@ -1,7 +1,7 @@
 const BLOG = {
   title: '米斯特乌小站',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  author: 'Frank.Wu',
+  email: 'bWVAd3V6aGlwaW5nLnRvcA==',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
